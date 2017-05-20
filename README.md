@@ -1,16 +1,19 @@
 # Demo
-[Click Here](http://codingxiaxw.cn/love)  
+[Click Here](http://force4us.com/love)
 
-![](http://od2xrf8gr.bkt.clouddn.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-05-17%20%E4%B8%8B%E5%8D%888.49.00.png)
 
-# Usage
+# 使用方法(Usage)
 ## 1.Copy My Code
-`$ git clone https://github.com/codingXiaxw/love.git`
+`$ git clone https://github.com/chengjinqian/love.git`
 
 ## 2.Update The Code
 
-1. use Sublime to open the file index.html
+1. use any text editor to open the file index.html
 2. update the words that you want to say to your lover
-3. update the time when you love with each other in `together.setFullYear(2014, 5, 25);`
+3. update the time when you love with each other in `together.setFullYear(2016, 4, 19);`
 4. enjoy it !
 
+## 3.tips
+
+对于使用Hexo博客系统的用户，可以将love文件夹放入X:\Hexo\source目录下，然后[跳过渲染进行自定义网页](http://www.jianshu.com/p/f89428fce8d5)即可。
+最后注意love文件夹下的index.html里js和css文件的引用路径是否正确。如果正确，那么可进行hexo g与hexo d两步操作进行部署。
